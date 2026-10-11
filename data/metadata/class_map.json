@@ -1,0 +1,107 @@
+{
+  "version": "voc21-v1",
+  "background_id": 0,
+  "ignore_id": 255,
+  "classes": [
+    {
+      "name": "aeroplane",
+      "cam_channel": 0,
+      "semantic_id": 1
+    },
+    {
+      "name": "bicycle",
+      "cam_channel": 1,
+      "semantic_id": 2
+    },
+    {
+      "name": "bird",
+      "cam_channel": 2,
+      "semantic_id": 3
+    },
+    {
+      "name": "boat",
+      "cam_channel": 3,
+      "semantic_id": 4
+    },
+    {
+      "name": "bottle",
+      "cam_channel": 4,
+      "semantic_id": 5
+    },
+    {
+      "name": "bus",
+      "cam_channel": 5,
+      "semantic_id": 6
+    },
+    {
+      "name": "car",
+      "cam_channel": 6,
+      "semantic_id": 7
+    },
+    {
+      "name": "cat",
+      "cam_channel": 7,
+      "semantic_id": 8
+    },
+    {
+      "name": "chair",
+      "cam_channel": 8,
+      "semantic_id": 9
+    },
+    {
+      "name": "cow",
+      "cam_channel": 9,
+      "semantic_id": 10
+    },
+    {
+      "name": "diningtable",
+      "cam_channel": 10,
+      "semantic_id": 11
+    },
+    {
+      "name": "dog",
+      "cam_channel": 11,
+      "semantic_id": 12
+    },
+    {
+      "name": "horse",
+      "cam_channel": 12,
+      "semantic_id": 13
+    },
+    {
+      "name": "motorbike",
+      "cam_channel": 13,
+      "semantic_id": 14
+    },
+    {
+      "name": "person",
+      "cam_channel": 14,
+      "semantic_id": 15
+    },
+    {
+      "name": "pottedplant",
+      "cam_channel": 15,
+      "semantic_id": 16
+    },
+    {
+      "name": "sheep",
+      "cam_channel": 16,
+      "semantic_id": 17
+    },
+    {
+      "name": "sofa",
+      "cam_channel": 17,
+      "semantic_id": 18
+    },
+    {
+      "name": "train",
+      "cam_channel": 18,
+      "semantic_id": 19
+    },
+    {
+      "name": "tvmonitor",
+      "cam_channel": 19,
+      "semantic_id": 20
+    }
+  ]
+}
