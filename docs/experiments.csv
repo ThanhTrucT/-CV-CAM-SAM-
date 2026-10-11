@@ -1,0 +1,1 @@
+run_id,method,split_hash,seed,commit,config_path,checkpoint_hash,miou,precision,coverage,ignore_ratio,seconds_per_image,peak_vram_mb,failure_count,status
