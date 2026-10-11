@@ -1,0 +1,9 @@
+{
+  "status": "draft",
+  "same_class_nms_iou": null,
+  "cross_class_score_rule": null,
+  "conflict_margin": null,
+  "background_rule": null,
+  "ignore_id": 255,
+  "note": "Giữ cùng fusion giữa run; không coi pixel chưa phủ là background."
+}

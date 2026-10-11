@@ -1,0 +1,7 @@
+{
+  "num_classes": 21,
+  "gt_void_id": 255,
+  "pseudo_abstain_policy": "false_negative_for_true_class_on_gt_valid_pixels",
+  "final_requires_image_tags": false,
+  "resize": "logits_then_argmax"
+}

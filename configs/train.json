@@ -1,0 +1,14 @@
+{
+  "status": "draft",
+  "model": "SegFormer-B0",
+  "encoder_pretraining": "ImageNet",
+  "segmentation_head": "new",
+  "num_classes": 21,
+  "ignore_index": 255,
+  "batch_size": null,
+  "input_size": null,
+  "optimizer": null,
+  "learning_rate": null,
+  "steps": null,
+  "checkpoint_selection_rule": null
+}

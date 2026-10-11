@@ -1,0 +1,31 @@
+{
+  "status": "draft_requires_pilot",
+  "cam": {
+    "provider": "ExCEL_SVC_training_free",
+    "upstream_commit": null,
+    "checkpoint_sha256": null
+  },
+  "sam": {
+    "model": "vit_b",
+    "frozen": true,
+    "checkpoint_sha256": null
+  },
+  "fusion": {
+    "config_path": "configs/fusion.json"
+  },
+  "method": "B0",
+  "prompt": {
+    "strategy": "none",
+    "positive_points_per_region": 1,
+    "max_prompt_sets_per_class": null,
+    "cam_high_threshold": null,
+    "nms_radius": null
+  },
+  "selector": {
+    "strategy": "sam_quality",
+    "alpha": null,
+    "beta": null,
+    "gamma": null,
+    "acceptance_threshold": null
+  }
+}
